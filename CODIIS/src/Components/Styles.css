@@ -1,0 +1,45 @@
+body{
+    background: #d3ec42;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #b1ec53, #cbe006);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #d2e75b, #cff544); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.form{
+    background-color: white;
+    border-radius: 5px;
+    width: 550px;
+    margin: 20px auto;
+    padding: 20px;
+    /* height: 600px; */
+}
+
+.form-body{
+    text-align: left;
+    padding: 20px 10px;
+}
+
+.form-body > *{
+    padding: 5px;
+}
+
+.form__label{
+    width: 40%;
+}
+
+.form_input{
+    width: 60%;
+}
+
+.footer{
+    text-align: center;
+}
+h3{
+    color: red;
+    font-size: 3;
+}
+nav{
+    color: red;
+    
+    
+
+}
